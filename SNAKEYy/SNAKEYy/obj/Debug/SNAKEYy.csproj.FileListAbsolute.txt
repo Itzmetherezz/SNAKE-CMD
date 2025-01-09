@@ -1,0 +1,7 @@
+C:\Users\itzth\source\repos\SNAKEYy\SNAKEYy\bin\Debug\SNAKEYy.exe.config
+C:\Users\itzth\source\repos\SNAKEYy\SNAKEYy\bin\Debug\SNAKEYy.exe
+C:\Users\itzth\source\repos\SNAKEYy\SNAKEYy\bin\Debug\SNAKEYy.pdb
+C:\Users\itzth\source\repos\SNAKEYy\SNAKEYy\obj\Debug\SNAKEYy.csproj.AssemblyReference.cache
+C:\Users\itzth\source\repos\SNAKEYy\SNAKEYy\obj\Debug\SNAKEYy.csproj.CoreCompileInputs.cache
+C:\Users\itzth\source\repos\SNAKEYy\SNAKEYy\obj\Debug\SNAKEYy.exe
+C:\Users\itzth\source\repos\SNAKEYy\SNAKEYy\obj\Debug\SNAKEYy.pdb
